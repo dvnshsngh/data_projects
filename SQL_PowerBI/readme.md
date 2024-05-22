@@ -11,7 +11,9 @@ We need to improve our internet sales reports and want to move from static repor
 Essentially, we want to focus it on how much we have sold of what products, to which clients and how it has been over time. Budget has been added in an excel file.
 
 Best
+
 Jacob
+
 Sales Manager
 
 
